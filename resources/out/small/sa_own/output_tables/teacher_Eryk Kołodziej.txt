@@ -1,0 +1,13 @@
+TIMETABLE
+Teacher Eryk Kołodziej
+
+Time    Monday                  Tuesday                Wednesday    Thursday                Friday
+------  ----------------------  ---------------------  -----------  ----------------------  --------
+08:00   ----                    ----                   ----         ----                    ----
+08:50   ----                    ----                   ----         ----                    ----
+09:45   IVa, Muzyka, Room R102  Vb, Muzyka, Room R103  ----         VIb, Muzyka, Room R102  ----
+10:35   IVb, Muzyka, Room R102  Va, Muzyka, Room R203  ----         VIa, Muzyka, Room R101  ----
+11:35   ----                    ----                   ----         ----                    ----
+12:25   ----                    ----                   ----         ----                    ----
+13:15   ----                    ----                   ----         ----                    ----
+

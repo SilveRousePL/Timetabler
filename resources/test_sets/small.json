@@ -1,0 +1,110 @@
+{
+    "timeslots": {
+        "Monday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15"],
+        "Tuesday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15"],
+        "Wednesday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15"],
+        "Thursday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15"],
+        "Friday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15"]
+    },
+    "rooms": {
+        "General": ["R101", "R102", "R103", "R202", "R203"],
+        "IT": ["I301"],
+        "Sport": ["S1"]
+    },
+    "teachers": [
+        "Mikołaj Wróblewski",
+        "Urszula Sokołowska",
+        "Kacper Wójcik",
+        "Magdalena Mazur",
+        "Lucjan Pietrzak",
+        "Joanna Zalewska",
+        "Eryk Kołodziej",
+        "Eliza Chmielewska"
+    ],
+    "groups": [
+        {
+            "name": "IVa",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Urszula Sokołowska", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Kacper Wójcik",      "amount": 5},
+                {"subject": "Historia",            "room": "General", "teacher": "Magdalena Mazur",    "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Lucjan Pietrzak",    "amount": 2},
+                {"subject": "Plastyka",            "room": "General", "teacher": "Joanna Zalewska",    "amount": 1},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Eryk Kołodziej",     "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Eliza Chmielewska",  "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 1}
+            ]
+        },
+        {
+            "name": "IVb",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Urszula Sokołowska", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Kacper Wójcik",      "amount": 5},
+                {"subject": "Historia",            "room": "General", "teacher": "Magdalena Mazur",    "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Lucjan Pietrzak",    "amount": 2},
+                {"subject": "Plastyka",            "room": "General", "teacher": "Joanna Zalewska",    "amount": 1},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Eryk Kołodziej",     "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Eliza Chmielewska",  "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Urszula Sokołowska", "amount": 1}
+            ]
+        },
+        {
+            "name": "Va",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Urszula Sokołowska", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Kacper Wójcik",      "amount": 5},
+                {"subject": "Historia",            "room": "General", "teacher": "Magdalena Mazur",    "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Lucjan Pietrzak",    "amount": 2},
+                {"subject": "Plastyka",            "room": "General", "teacher": "Joanna Zalewska",    "amount": 1},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Eryk Kołodziej",     "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Eliza Chmielewska",  "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Kacper Wójcik",      "amount": 1}
+            ]
+        },
+        {
+            "name": "Vb",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Urszula Sokołowska", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Kacper Wójcik",      "amount": 5},
+                {"subject": "Historia",            "room": "General", "teacher": "Magdalena Mazur",    "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Lucjan Pietrzak",    "amount": 2},
+                {"subject": "Plastyka",            "room": "General", "teacher": "Joanna Zalewska",    "amount": 1},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Eryk Kołodziej",     "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Eliza Chmielewska",  "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Magdalena Mazur",    "amount": 1}
+            ]
+        },
+        {
+            "name": "VIa",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Urszula Sokołowska", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Kacper Wójcik",      "amount": 5},
+                {"subject": "Historia",            "room": "General", "teacher": "Magdalena Mazur",    "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Lucjan Pietrzak",    "amount": 2},
+                {"subject": "Plastyka",            "room": "General", "teacher": "Joanna Zalewska",    "amount": 1},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Eryk Kołodziej",     "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Eliza Chmielewska",  "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Lucjan Pietrzak",    "amount": 1}
+            ]
+        },
+        {
+            "name": "VIb",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Mikołaj Wróblewski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Urszula Sokołowska", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Kacper Wójcik",      "amount": 5},
+                {"subject": "Historia",            "room": "General", "teacher": "Magdalena Mazur",    "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Lucjan Pietrzak",    "amount": 2},
+                {"subject": "Plastyka",            "room": "General", "teacher": "Joanna Zalewska",    "amount": 1},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Eryk Kołodziej",     "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Eliza Chmielewska",  "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Joanna Zalewska",    "amount": 1}
+            ]
+        }
+    ]
+}

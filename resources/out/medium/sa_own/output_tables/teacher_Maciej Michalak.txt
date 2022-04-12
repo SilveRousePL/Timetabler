@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Maciej Michalak
+
+Time    Monday                        Tuesday                        Wednesday                      Thursday                       Friday
+------  ----------------------------  -----------------------------  -----------------------------  -----------------------------  -----------------------------
+08:00   VIIb, Informatyka, Room R201  ----                           ----                           ----                           ----
+08:50   VIIc, Informatyka, Room R201  ----                           ----                           VIIa, Informatyka, Room R201   ----
+09:45   VIIc, Informatyka, Room R201  VIIa, Informatyka, Room R201   VIIIc, Informatyka, Room R201  ----                           ----
+10:35   ----                          VIIIa, Informatyka, Room R201  ----                           ----                           ----
+11:35   ----                          VIIIb, Informatyka, Room R201  ----                           VIIIc, Informatyka, Room R201  ----
+12:25   ----                          VIIIb, Informatyka, Room R201  ----                           VIIIa, Informatyka, Room R201  VIIIa, Informatyka, Room R201
+13:15   ----                          ----                           ----                           ----                           VIIb, Informatyka, Room R201
+14:05   ----                          ----                           ----                           ----                           ----
+

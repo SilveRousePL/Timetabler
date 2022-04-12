@@ -1,0 +1,13 @@
+TIMETABLE
+Teacher Urszula Sokołowska
+
+Time    Monday                    Tuesday                   Wednesday                 Thursday                  Friday
+------  ------------------------  ------------------------  ------------------------  ------------------------  -----------------------------------
+08:00   IVa, J.Polski, Room R102  IVb, J.Polski, Room R102  ----                      VIb, J.Polski, Room R102  ----
+08:50   IVa, J.Polski, Room R102  ----                      Vb, J.Polski, Room R101   IVa, J.Polski, Room R202  ----
+09:45   VIb, J.Polski, Room R101  VIb, J.Polski, Room R101  VIa, J.Polski, Room R202  Va, J.Polski, Room R203   IVb, Godzina wychowawcza, Room R103
+10:35   VIa, J.Polski, Room R203  IVb, J.Polski, Room R102  Vb, J.Polski, Room R101   IVb, J.Polski, Room R103  IVa, J.Polski, Room R102
+11:35   VIb, J.Polski, Room R101  VIa, J.Polski, Room R202  Vb, J.Polski, Room R101   VIa, J.Polski, Room R101  Va, J.Polski, Room R202
+12:25   IVb, J.Polski, Room R102  Va, J.Polski, Room R203   Va, J.Polski, Room R203   Va, J.Polski, Room R202   IVa, J.Polski, Room R102
+13:15   VIb, J.Polski, Room R101  Vb, J.Polski, Room R101   IVb, J.Polski, Room R103  VIa, J.Polski, Room R203  Vb, J.Polski, Room R103
+

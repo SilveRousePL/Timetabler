@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Eliza Zakrzewska
+
+Time    Monday                       Tuesday                     Wednesday                    Thursday                     Friday
+------  ---------------------------  --------------------------  ---------------------------  ---------------------------  ---------------------------
+08:00   ----                         ----                        VIIIb, Geografia, Room R302  ----                         ----
+08:50   VIIa, Geografia, Room R203   ----                        ----                         ----                         VIIIa, Geografia, Room R303
+09:45   ----                         ----                        VIIIb, Geografia, Room R302  VIIa, Geografia, Room R102   ----
+10:35   VIIb, Geografia, Room R101   VIIc, Geografia, Room R101  ----                         ----                         VIIIc, Geografia, Room R103
+11:35   ----                         ----                        VIIb, Geografia, Room R302   VIIIa, Geografia, Room R303  VIIc, Geografia, Room R102
+12:25   ----                         ----                        ----                         ----                         ----
+13:15   VIIIc, Geografia, Room R103  ----                        ----                         ----                         ----
+14:05   ----                         ----                        ----                         ----                         ----
+

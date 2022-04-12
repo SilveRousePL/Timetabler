@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Konstanty Tomaszewski
+
+Time    Monday                      Tuesday                     Wednesday                   Thursday                   Friday
+------  --------------------------  --------------------------  --------------------------  -------------------------  -------------------------
+08:00   VIIa, J.Polski, Room R203   ----                        ----                        ----                       ----
+08:50   ----                        ----                        VIIIb, J.Polski, Room R302  ----                       VIIa, J.Polski, Room R203
+09:45   ----                        VIIIb, J.Polski, Room R202  ----                        ----                       ----
+10:35   VIIIb, J.Polski, Room R302  ----                        ----                        ----                       ----
+11:35   ----                        ----                        ----                        ----                       ----
+12:25   ----                        ----                        VIIIb, J.Polski, Room R102  VIIa, J.Polski, Room R102  ----
+13:15   ----                        ----                        ----                        ----                       VIIa, J.Polski, Room R203
+14:05   ----                        ----                        ----                        ----                       ----
+

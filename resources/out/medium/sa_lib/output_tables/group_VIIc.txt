@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIc
+
+Time    Monday                                     Tuesday                                 Wednesday                                  Thursday                               Friday
+------  -----------------------------------------  --------------------------------------  -----------------------------------------  -------------------------------------  ------------------------------------------
+08:00   ----                                       ----                                    Biologia, Alojzy Kamiński, Room R302       ----                                   ----
+08:50   ----                                       ----                                    J.Polski, Maria Mróz, Room R302            ----                                   ----
+09:45   WF, Dorian Duda, Room S2                   J.Angielski, Paula Michalak, Room R202  Matematyka, Ola Kubiak, Room R203          ----                                   WF, Dorian Duda, Room S2
+10:35   Historia, Patrycja Chmielewska, Room R202  Muzyka, Alek Sobczak, Room R203         Geografia, Eliza Zakrzewska, Room R203     Matematyka, Ola Kubiak, Room R302      Geografia, Eliza Zakrzewska, Room R203
+11:35   J.Polski, Maria Mróz, Room R302            Chemia, Marcelina Witkowska, Room R102  Historia, Patrycja Chmielewska, Room R102  Fizyka, Kryspin Wróblewski, Room R303  Godzina wychowawcza, Maria Mróz, Room R203
+12:25   J.Polski, Maria Mróz, Room R302            Matematyka, Ola Kubiak, Room R302       Matematyka, Ola Kubiak, Room R302          WF, Dorian Duda, Room S2               Informatyka, Maciej Michalak, Room R201
+13:15   J.Polski, Maria Mróz, Room R302            Matematyka, Ola Kubiak, Room R302       ----                                       WF, Dorian Duda, Room S2               Chemia, Marcelina Witkowska, Room R302
+14:05   Informatyka, Maciej Michalak, Room R201    J.Angielski, Paula Michalak, Room R302  ----                                       Biologia, Alojzy Kamiński, Room R303   Fizyka, Kryspin Wróblewski, Room R203
+

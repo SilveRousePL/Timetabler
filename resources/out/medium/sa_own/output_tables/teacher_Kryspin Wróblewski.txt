@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Kryspin Wróblewski
+
+Time    Monday                    Tuesday                  Wednesday                 Thursday                  Friday
+------  ------------------------  -----------------------  ------------------------  ------------------------  ------------------------
+08:00   ----                      ----                     ----                      ----                      ----
+08:50   VIIIc, Fizyka, Room R103  ----                     VIIc, Fizyka, Room R203   ----                      ----
+09:45   VIIIc, Fizyka, Room R103  VIIb, Fizyka, Room R102  ----                      ----                      VIIIa, Fizyka, Room R303
+10:35   ----                      ----                     VIIIb, Fizyka, Room R102  VIIa, Fizyka, Room R102   ----
+11:35   ----                      ----                     ----                      VIIb, Fizyka, Room R101   ----
+12:25   ----                      ----                     ----                      VIIc, Fizyka, Room R202   VIIa, Fizyka, Room R203
+13:15   VIIIa, Fizyka, Room R303  ----                     ----                      ----                      ----
+14:05   ----                      ----                     ----                      VIIIb, Fizyka, Room R203  ----
+

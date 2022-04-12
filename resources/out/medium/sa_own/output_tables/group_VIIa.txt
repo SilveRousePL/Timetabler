@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIa
+
+Time    Monday                                      Tuesday                                    Wednesday                                  Thursday                                    Friday
+------  ------------------------------------------  -----------------------------------------  -----------------------------------------  ------------------------------------------  ------------------------------------------
+08:00   J.Polski, Konstanty Tomaszewski, Room R203  Matematyka, Ola Kubiak, Room R302          ----                                       J.Angielski, Paula Michalak, Room R102      ----
+08:50   Geografia, Eliza Zakrzewska, Room R203      Matematyka, Ola Kubiak, Room R302          ----                                       Informatyka, Maciej Michalak, Room R201     J.Polski, Konstanty Tomaszewski, Room R203
+09:45   Matematyka, Ola Kubiak, Room R203           Informatyka, Maciej Michalak, Room R201    Biologia, Alojzy Kamiński, Room R303       Geografia, Eliza Zakrzewska, Room R102      WF, Dorian Duda, Room S1
+10:35   Godzina wychowawcza, Ola Kubiak, Room R203  Historia, Patrycja Chmielewska, Room R302  Historia, Patrycja Chmielewska, Room R303  Fizyka, Kryspin Wróblewski, Room R102       WF, Dorian Duda, Room S1
+11:35   WF, Dorian Duda, Room S1                    WF, Dorian Duda, Room S1                   Biologia, Alojzy Kamiński, Room R303       Chemia, Marcelina Witkowska, Room R102      Muzyka, Alek Sobczak, Room R203
+12:25   ----                                        Matematyka, Ola Kubiak, Room R302          J.Angielski, Paula Michalak, Room R303     J.Polski, Konstanty Tomaszewski, Room R102  Fizyka, Kryspin Wróblewski, Room R203
+13:15   ----                                        ----                                       Chemia, Marcelina Witkowska, Room R303     ----                                        J.Polski, Konstanty Tomaszewski, Room R203
+14:05   ----                                        ----                                       Matematyka, Ola Kubiak, Room R102          ----                                        ----
+

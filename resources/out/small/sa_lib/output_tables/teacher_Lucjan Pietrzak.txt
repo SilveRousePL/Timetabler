@@ -1,0 +1,13 @@
+TIMETABLE
+Teacher Lucjan Pietrzak
+
+Time    Monday                               Tuesday                      Wednesday                    Thursday                     Friday
+------  -----------------------------------  ---------------------------  ---------------------------  ---------------------------  ---------------------------
+08:00   ----                                 ----                         ----                         ----                         ----
+08:50   ----                                 VIb, Informatyka, Room I301  ----                         Vb, Informatyka, Room I301   ----
+09:45   ----                                 ----                         ----                         Vb, Informatyka, Room I301   ----
+10:35   IVb, Informatyka, Room I301          ----                         IVa, Informatyka, Room I301  ----                         VIa, Informatyka, Room I301
+11:35   Va, Informatyka, Room I301           ----                         ----                         VIa, Informatyka, Room I301  IVb, Informatyka, Room I301
+12:25   VIa, Godzina wychowawcza, Room R101  ----                         ----                         Va, Informatyka, Room I301   ----
+13:15   IVa, Informatyka, Room I301          VIb, Informatyka, Room I301  ----                         ----                         ----
+

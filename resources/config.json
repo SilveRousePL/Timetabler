@@ -1,0 +1,28 @@
+{
+    "input_file": "resources/test_sets/small.json",
+    "output_file_json": "resources/out/small/sa_own/output.json",
+    "output_file_csv": "resources/out/small/sa_own/output.csv",
+    "output_dir_tables": "resources/out/small/sa_own/output_tables/",
+    "output_report": "resources/out/small/sa_own/report.txt",
+
+    "algorithm": "sa_own",
+    "iterations": 5,
+
+    "sa_own": {
+        "t_start": 25000,
+        "t_change_factor": 0.99,
+        "worse_acceptable": 50000
+    },
+    "sa_lib": {
+        "Tmax": 25000.0,
+        "Tmin": 0.005,
+        "steps": 100000,
+        "updates": 100,
+        "copy_strategy": "slice"
+    },
+    "ts_own": {
+        "max_tabu_size": 1000000,
+        "limit": 10,
+        "no_better_max_iter": 100000
+    }
+}

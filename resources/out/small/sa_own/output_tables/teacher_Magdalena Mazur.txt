@@ -1,0 +1,13 @@
+TIMETABLE
+Teacher Magdalena Mazur
+
+Time    Monday                    Tuesday                   Wednesday                 Thursday                  Friday
+------  ------------------------  ------------------------  ------------------------  ------------------------  ----------------------------------
+08:00   ----                      ----                      ----                      ----                      ----
+08:50   ----                      ----                      ----                      ----                      ----
+09:45   ----                      ----                      ----                      ----                      ----
+10:35   VIb, Historia, Room R101  ----                      Va, Historia, Room R203   ----                      VIa, Historia, Room R203
+11:35   Va, Historia, Room R202   Vb, Historia, Room R103   IVb, Historia, Room R103  Vb, Historia, Room R203   IVa, Historia, Room R102
+12:25   ----                      ----                      IVb, Historia, Room R103  VIa, Historia, Room R203  Vb, Godzina wychowawcza, Room R103
+13:15   IVa, Historia, Room R202  VIb, Historia, Room R102  ----                      ----                      ----
+

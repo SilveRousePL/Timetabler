@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIIc
+
+Time    Monday                                           Tuesday                                  Wednesday                               Thursday                                   Friday
+------  -----------------------------------------------  ---------------------------------------  --------------------------------------  -----------------------------------------  --------------------------------------
+08:00   ----                                             Informatyka, Maciej Michalak, Room R201  J.Polski, Maria Mróz, Room R102         Historia, Patrycja Chmielewska, Room R203  ----
+08:50   Godzina wychowawcza, Alojzy Kamiński, Room R303  Informatyka, Maciej Michalak, Room R201  Fizyka, Kryspin Wróblewski, Room R102   J.Polski, Maria Mróz, Room R203            ----
+09:45   J.Angielski, Paula Michalak, Room R303           Chemia, Marcelina Witkowska, Room R101   Biologia, Alojzy Kamiński, Room R102    Matematyka, Ola Kubiak, Room R203          ----
+10:35   WF, Anna Borkowska, Room S1                      WF, Anna Borkowska, Room S1              Matematyka, Ola Kubiak, Room R102       Fizyka, Kryspin Wróblewski, Room R203      Matematyka, Ola Kubiak, Room R101
+11:35   WF, Anna Borkowska, Room S2                      Biologia, Alojzy Kamiński, Room R202     Geografia, Eliza Zakrzewska, Room R203  Historia, Patrycja Chmielewska, Room R203  Geografia, Eliza Zakrzewska, Room R303
+12:25   Matematyka, Ola Kubiak, Room R203                WF, Anna Borkowska, Room S1              ----                                    J.Polski, Maria Mróz, Room R101            J.Angielski, Paula Michalak, Room R202
+13:15   Chemia, Marcelina Witkowska, Room R203           ----                                     ----                                    ----                                       J.Polski, Maria Mróz, Room R202
+14:05   J.Angielski, Paula Michalak, Room R101           ----                                     ----                                    ----                                       J.Angielski, Paula Michalak, Room R303
+

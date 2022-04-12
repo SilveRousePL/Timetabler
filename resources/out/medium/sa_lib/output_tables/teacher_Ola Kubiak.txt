@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Ola Kubiak
+
+Time    Monday                                Tuesday                       Wednesday                     Thursday                      Friday
+------  ------------------------------------  ----------------------------  ----------------------------  ----------------------------  ----------------------------
+08:00   VIIa, Matematyka, Room R203           ----                          ----                          ----                          ----
+08:50   VIIa, Godzina wychowawcza, Room R203  ----                          ----                          VIIIb, Matematyka, Room R103  VIIIb, Matematyka, Room R102
+09:45   ----                                  VIIIb, Matematyka, Room R102  VIIc, Matematyka, Room R203   VIIIc, Matematyka, Room R203  ----
+10:35   VIIa, Matematyka, Room R203           VIIIb, Matematyka, Room R101  VIIIc, Matematyka, Room R102  VIIc, Matematyka, Room R302   VIIIc, Matematyka, Room R101
+11:35   VIIIb, Matematyka, Room R102          VIIa, Matematyka, Room R302   VIIa, Matematyka, Room R103   ----                          ----
+12:25   VIIIc, Matematyka, Room R203          VIIc, Matematyka, Room R302   VIIc, Matematyka, Room R302   VIIIb, Matematyka, Room R102  VIIa, Matematyka, Room R302
+13:15   ----                                  VIIc, Matematyka, Room R302   ----                          ----                          ----
+14:05   ----                                  ----                          ----                          ----                          ----
+

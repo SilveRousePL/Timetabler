@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIb
+
+Time    Monday                                         Tuesday                                        Wednesday                                             Thursday                                       Friday
+------  ---------------------------------------------  ---------------------------------------------  ----------------------------------------------------  ---------------------------------------------  ---------------------------------------------
+08:00   Informatyka, Maciej Michalak, Room R201        ----                                           ----                                                  ----                                           ----
+08:50   Matematyka, Bartłomiej Kwiatkowski, Room R101  ----                                           ----                                                  ----                                           ----
+09:45   Biologia, Alojzy Kamiński, Room R101           Fizyka, Kryspin Wróblewski, Room R102          Godzina wychowawcza, Patrycja Chmielewska, Room R102  J.Polski, Maria Mróz, Room R302                Chemia, Marcelina Witkowska, Room R302
+10:35   Geografia, Eliza Zakrzewska, Room R101         Matematyka, Bartłomiej Kwiatkowski, Room R102  J.Angielski, Paula Michalak, Room R202                J.Polski, Maria Mróz, Room R302                WF, Anna Borkowska, Room S2
+11:35   Biologia, Alojzy Kamiński, Room R101           J.Polski, Maria Mróz, Room R202                Geografia, Eliza Zakrzewska, Room R302                Fizyka, Kryspin Wróblewski, Room R101          J.Polski, Maria Mróz, Room R101
+12:25   ----                                           Historia, Patrycja Chmielewska, Room R102      Chemia, Marcelina Witkowska, Room R202                J.Angielski, Paula Michalak, Room R101         Matematyka, Bartłomiej Kwiatkowski, Room R101
+13:15   ----                                           WF, Anna Borkowska, Room S1                    Historia, Patrycja Chmielewska, Room R302             Matematyka, Bartłomiej Kwiatkowski, Room R101  Informatyka, Maciej Michalak, Room R201
+14:05   ----                                           WF, Anna Borkowska, Room S1                    Matematyka, Bartłomiej Kwiatkowski, Room R302         WF, Anna Borkowska, Room S2                    Muzyka, Alek Sobczak, Room R101
+

@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Alojzy Kamiński
+
+Time    Monday                      Tuesday                                Wednesday                  Thursday                    Friday
+------  --------------------------  -------------------------------------  -------------------------  --------------------------  --------------------------
+08:00   ----                        ----                                   ----                       ----                        ----
+08:50   ----                        VIIc, Biologia, Room R203              ----                       ----                        ----
+09:45   VIIb, Biologia, Room R101   ----                                   VIIa, Biologia, Room R303  VIIIc, Biologia, Room R101  ----
+10:35   ----                        ----                                   VIIc, Biologia, Room R203  ----                        ----
+11:35   VIIb, Biologia, Room R101   ----                                   VIIa, Biologia, Room R303  ----                        ----
+12:25   VIIIc, Biologia, Room R103  VIIIc, Godzina wychowawcza, Room R101  ----                       ----                        ----
+13:15   ----                        ----                                   ----                       ----                        VIIIa, Biologia, Room R303
+14:05   ----                        VIIIb, Biologia, Room R302             ----                       VIIIa, Biologia, Room R303  VIIIb, Biologia, Room R302
+

@@ -1,0 +1,13 @@
+TIMETABLE
+Teacher Mikołaj Wróblewski
+
+Time    Monday                      Tuesday                     Wednesday                            Thursday                    Friday
+------  --------------------------  --------------------------  -----------------------------------  --------------------------  --------------------------
+08:00   IVb, Matematyka, Room R103  ----                        IVb, Matematyka, Room R102           Vb, Matematyka, Room R203   IVb, Matematyka, Room R103
+08:50   VIb, Matematyka, Room R101  ----                        Vb, Matematyka, Room R103            IVa, Matematyka, Room R202  Vb, Matematyka, Room R101
+09:45   Vb, Matematyka, Room R202   Va, Matematyka, Room R102   IVa, Godzina wychowawcza, Room R202  VIa, Matematyka, Room R102  IVa, Matematyka, Room R203
+10:35   IVa, Matematyka, Room R103  Vb, Matematyka, Room R203   VIa, Matematyka, Room R101           Va, Matematyka, Room R203   ----
+11:35   VIa, Matematyka, Room R101  VIa, Matematyka, Room R103  IVb, Matematyka, Room R103           Va, Matematyka, Room R203   VIa, Matematyka, Room R102
+12:25   VIb, Matematyka, Room R203  IVb, Matematyka, Room R203  IVa, Matematyka, Room R202           VIb, Matematyka, Room R103  IVa, Matematyka, Room R202
+13:15   Va, Matematyka, Room R102   Va, Matematyka, Room R203   ----                                 VIb, Matematyka, Room R103  VIb, Matematyka, Room R101
+

@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Bartłomiej Kwiatkowski
+
+Time    Monday                                 Tuesday                       Wednesday                     Thursday                      Friday
+------  -------------------------------------  ----------------------------  ----------------------------  ----------------------------  ----------------------------
+08:00   ----                                   ----                          ----                          ----                          ----
+08:50   VIIb, Matematyka, Room R101            ----                          ----                          ----                          ----
+09:45   VIIIa, Godzina wychowawcza, Room R303  ----                          VIIIa, Matematyka, Room R103  ----                          ----
+10:35   ----                                   VIIb, Matematyka, Room R102   ----                          VIIIa, Matematyka, Room R303  VIIIa, Matematyka, Room R303
+11:35   ----                                   ----                          ----                          ----                          VIIIa, Matematyka, Room R303
+12:25   ----                                   VIIIa, Matematyka, Room R103  ----                          ----                          VIIb, Matematyka, Room R101
+13:15   ----                                   ----                          ----                          VIIb, Matematyka, Room R101   ----
+14:05   ----                                   ----                          VIIb, Matematyka, Room R302   ----                          ----
+

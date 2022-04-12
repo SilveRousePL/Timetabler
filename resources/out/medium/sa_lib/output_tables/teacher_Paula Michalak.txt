@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Paula Michalak
+
+Time    Monday                         Tuesday                       Wednesday                      Thursday                               Friday
+------  -----------------------------  ----------------------------  -----------------------------  -------------------------------------  -----------------------------
+08:00   ----                           ----                          VIIb, J.Angielski, Room R303   ----                                   VIIIb, J.Angielski, Room R303
+08:50   ----                           ----                          ----                           VIIb, J.Angielski, Room R202           ----
+09:45   VIIIc, J.Angielski, Room R303  VIIc, J.Angielski, Room R202  VIIIb, J.Angielski, Room R303  ----                                   ----
+10:35   ----                           ----                          VIIa, J.Angielski, Room R202   VIIIb, Godzina wychowawcza, Room R102  VIIIa, J.Angielski, Room R103
+11:35   ----                           ----                          ----                           ----                                   ----
+12:25   ----                           VIIa, J.Angielski, Room R202  ----                           ----                                   VIIIc, J.Angielski, Room R202
+13:15   ----                           ----                          ----                           ----                                   ----
+14:05   VIIIc, J.Angielski, Room R101  VIIc, J.Angielski, Room R302  VIIIa, J.Angielski, Room R102  ----                                   VIIIc, J.Angielski, Room R303
+

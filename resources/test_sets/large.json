@@ -1,0 +1,176 @@
+{
+    "timeslots": {
+        "Monday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15", "14:05"],
+        "Tuesday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15", "14:05"],
+        "Wednesday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15", "14:05"],
+        "Thursday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15", "14:05"],
+        "Friday": ["08:00", "08:50", "09:45", "10:35", "11:35", "12:25", "13:15", "14:05"]
+    },
+    "rooms": {
+        "General": ["G1", "G2", "G3", "G4", "G5", "G6", "G7", "G8"],
+        "IT": ["I1", "I2"],
+        "Sport": ["S1", "S2", "S3"]
+    },
+    "teachers": [
+        "Ola Kubiak", "Bartłomiej Kwiatkowski",
+        "Maria Mróz", "Konstanty Tomaszewski",
+        "Paula Michalak",
+        "Alojzy Kamiński",
+        "Marcelina Witkowska",
+        "Kryspin Wróblewski",
+        "Eliza Zakrzewska",
+        "Maciej Michalak",
+        "Patrycja Chmielewska",
+        "Alek Sobczak",
+        "Anna Borkowska", "Dorian Duda"
+    ],
+    "groups": [
+        {
+            "name": "Ia",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Ola Kubiak",            "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Konstanty Tomaszewski", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",        "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",       "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",   "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",    "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",      "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",       "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",  "amount": 2},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Alek Sobczak",          "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Dorian Duda",           "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Ola Kubiak",            "amount": 1}
+            ]
+        },
+        {
+            "name": "Ib",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Bartłomiej Kwiatkowski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Maria Mróz",             "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",         "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",        "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",    "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",     "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",       "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",        "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",   "amount": 2},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Alek Sobczak",           "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Anna Borkowska",         "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Patrycja Chmielewska",   "amount": 1}
+            ]
+        },
+        {
+            "name": "Ic",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Ola Kubiak",           "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Maria Mróz",           "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",       "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",      "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",  "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",   "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",     "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",      "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska", "amount": 2},
+                {"subject": "Muzyka",              "room": "General", "teacher": "Alek Sobczak",         "amount": 1},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Dorian Duda",          "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Maria Mróz",           "amount": 1}
+            ]
+        },
+        {
+            "name": "IIa",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Bartłomiej Kwiatkowski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Konstanty Tomaszewski",  "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",         "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",        "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",    "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",     "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",       "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",        "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",   "amount": 2},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Anna Borkowska",         "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Kryspin Wróblewski",     "amount": 1}
+            ]
+        },
+        {
+            "name": "IIb",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Ola Kubiak",            "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Konstanty Tomaszewski", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",        "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",       "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",   "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",    "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",      "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",       "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",  "amount": 2},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Dorian Duda",           "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Paula Michalak",        "amount": 1}
+            ]
+        },
+        {
+            "name": "IIc",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Ola Kubiak",           "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Maria Mróz",           "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",       "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",      "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",  "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",   "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",     "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",      "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska", "amount": 2},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Anna Borkowska",       "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Eliza Zakrzewska",     "amount": 1}
+            ]
+        },
+        {
+            "name": "IIIa",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Bartłomiej Kwiatkowski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Maria Mróz",             "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",         "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",        "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",    "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",     "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",       "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",        "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",   "amount": 2},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Anna Borkowska",         "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Alojzy Kamiński",        "amount": 1}
+            ]
+        },
+        {
+            "name": "IIIb",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Ola Kubiak",            "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Konstanty Tomaszewski", "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",        "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",       "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",   "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",    "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",      "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",       "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",  "amount": 2},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Anna Borkowska",        "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Marcelina Witkowska",   "amount": 1}
+            ]
+        },
+        {
+            "name": "IIIc",
+            "courses": [
+                {"subject": "Matematyka",          "room": "General", "teacher": "Bartłomiej Kwiatkowski", "amount": 5},
+                {"subject": "J.Polski",            "room": "General", "teacher": "Maria Mróz",             "amount": 5},
+                {"subject": "J.Angielski",         "room": "General", "teacher": "Paula Michalak",         "amount": 4},
+                {"subject": "Biologia",            "room": "General", "teacher": "Alojzy Kamiński",        "amount": 2},
+                {"subject": "Chemia",              "room": "General", "teacher": "Marcelina Witkowska",    "amount": 2},
+                {"subject": "Fizyka",              "room": "General", "teacher": "Kryspin Wróblewski",     "amount": 2},
+                {"subject": "Geografia",           "room": "General", "teacher": "Eliza Zakrzewska",       "amount": 2},
+                {"subject": "Informatyka",         "room": "IT",      "teacher": "Maciej Michalak",        "amount": 3},
+                {"subject": "Historia",            "room": "General", "teacher": "Patrycja Chmielewska",   "amount": 2},
+                {"subject": "WF",                  "room": "Sport",   "teacher": "Anna Borkowska",         "amount": 4},
+                {"subject": "Godzina wychowawcza", "room": "General", "teacher": "Maciej Michalak",        "amount": 1}
+            ]
+        }
+    ]
+}

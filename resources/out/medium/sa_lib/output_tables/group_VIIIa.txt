@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIIa
+
+Time    Monday                                         Tuesday                                        Wednesday                                      Thursday                                Friday
+------  ---------------------------------------------  ---------------------------------------------  ---------------------------------------------  --------------------------------------  ------------------------------------------------------
+08:00   Matematyka, Bartłomiej Kwiatkowski, Room R103  ----                                           ----                                           WF, Anna Borkowska, Room S2             Fizyka, Kryspin Wróblewski, Room R302
+08:50   Matematyka, Bartłomiej Kwiatkowski, Room R102  ----                                           ----                                           WF, Anna Borkowska, Room S2             Matematyka, Bartłomiej Kwiatkowski, Room R302
+09:45   Chemia, Marcelina Witkowska, Room R103         ----                                           ----                                           Fizyka, Kryspin Wróblewski, Room R103   J.Polski, Maria Mróz, Room R102
+10:35   J.Polski, Maria Mróz, Room R102                Informatyka, Maciej Michalak, Room R201        WF, Anna Borkowska, Room S2                    Chemia, Marcelina Witkowska, Room R103  J.Angielski, Paula Michalak, Room R103
+11:35   Biologia, Alojzy Kamiński, Room R103           Informatyka, Maciej Michalak, Room R201        Informatyka, Maciej Michalak, Room R201        Geografia, Eliza Zakrzewska, Room R103  Historia, Patrycja Chmielewska, Room R101
+12:25   ----                                           J.Polski, Maria Mróz, Room R101                Matematyka, Bartłomiej Kwiatkowski, Room R102  WF, Anna Borkowska, Room S1             Historia, Patrycja Chmielewska, Room R103
+13:15   ----                                           Matematyka, Bartłomiej Kwiatkowski, Room R202  Geografia, Eliza Zakrzewska, Room R102         J.Polski, Maria Mróz, Room R302         Godzina wychowawcza, Bartłomiej Kwiatkowski, Room R103
+14:05   ----                                           Biologia, Alojzy Kamiński, Room R101           J.Angielski, Paula Michalak, Room R102         ----                                    ----
+

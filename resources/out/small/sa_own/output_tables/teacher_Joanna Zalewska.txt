@@ -1,0 +1,13 @@
+TIMETABLE
+Teacher Joanna Zalewska
+
+Time    Monday                    Tuesday                  Wednesday    Thursday                             Friday
+------  ------------------------  -----------------------  -----------  -----------------------------------  ------------------------
+08:00   ----                      ----                     ----         ----                                 ----
+08:50   ----                      ----                     ----         ----                                 ----
+09:45   ----                      Va, Plastyka, Room R203  ----         Vb, Plastyka, Room R101              VIa, Plastyka, Room R203
+10:35   ----                      ----                     ----         VIb, Godzina wychowawcza, Room R102  ----
+11:35   ----                      ----                     ----         VIb, Plastyka, Room R102             IVb, Plastyka, Room R103
+12:25   IVa, Plastyka, Room R202  ----                     ----         ----                                 ----
+13:15   ----                      ----                     ----         ----                                 ----
+

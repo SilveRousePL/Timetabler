@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Dorian Duda
+
+Time    Monday              Tuesday            Wednesday          Thursday            Friday
+------  ------------------  -----------------  -----------------  ------------------  ------------------
+08:00   VIIIb, WF, Room S2  ----               VIIc, WF, Room S1  ----                ----
+08:50   ----                ----               ----               ----                ----
+09:45   ----                ----               VIIc, WF, Room S1  ----                VIIa, WF, Room S1
+10:35   ----                ----               ----               VIIIb, WF, Room S2  VIIa, WF, Room S1
+11:35   VIIa, WF, Room S1   VIIa, WF, Room S1  VIIc, WF, Room S1  ----                ----
+12:25   ----                ----               VIIc, WF, Room S1  VIIIb, WF, Room S2  ----
+13:15   ----                ----               ----               ----                VIIIb, WF, Room S2
+14:05   ----                ----               ----               ----                ----
+

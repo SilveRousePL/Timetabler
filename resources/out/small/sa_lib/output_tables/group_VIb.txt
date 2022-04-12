@@ -1,0 +1,13 @@
+TIMETABLE
+Group VIb
+
+Time    Monday                                     Tuesday                                  Wednesday                              Thursday                                         Friday
+------  -----------------------------------------  ---------------------------------------  -------------------------------------  -----------------------------------------------  -----------------------------------------
+08:00   J.Polski, Urszula Sokołowska, Room R101    WF, Eliza Chmielewska, Room S1           ----                                   ----                                             ----
+08:50   Matematyka, Mikołaj Wróblewski, Room R101  Informatyka, Lucjan Pietrzak, Room I301  ----                                   ----                                             ----
+09:45   Historia, Magdalena Mazur, Room R101       WF, Eliza Chmielewska, Room S1           J.Angielski, Kacper Wójcik, Room R102  ----                                             ----
+10:35   J.Polski, Urszula Sokołowska, Room R203    J.Angielski, Kacper Wójcik, Room R102    Historia, Magdalena Mazur, Room R102   J.Angielski, Kacper Wójcik, Room R103            ----
+11:35   Muzyka, Eryk Kołodziej, Room R203          J.Polski, Urszula Sokołowska, Room R102  WF, Eliza Chmielewska, Room S1         Godzina wychowawcza, Joanna Zalewska, Room R103  J.Polski, Urszula Sokołowska, Room R101
+12:25   Matematyka, Mikołaj Wróblewski, Room R203  J.Angielski, Kacper Wójcik, Room R102    Plastyka, Joanna Zalewska, Room R103   Matematyka, Mikołaj Wróblewski, Room R103        J.Angielski, Kacper Wójcik, Room R101
+13:15   J.Polski, Urszula Sokołowska, Room R203    Informatyka, Lucjan Pietrzak, Room I301  WF, Eliza Chmielewska, Room S1         Matematyka, Mikołaj Wróblewski, Room R103        Matematyka, Mikołaj Wróblewski, Room R101
+

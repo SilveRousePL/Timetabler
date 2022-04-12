@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIIb
+
+Time    Monday                                          Tuesday                                     Wednesday                                   Thursday                                   Friday
+------  ----------------------------------------------  ------------------------------------------  ------------------------------------------  -----------------------------------------  --------------------------------------
+08:00   WF, Dorian Duda, Room S2                        ----                                        Geografia, Eliza Zakrzewska, Room R302      ----                                       ----
+08:50   J.Angielski, Paula Michalak, Room R202          ----                                        J.Polski, Konstanty Tomaszewski, Room R302  ----                                       ----
+09:45   Godzina wychowawcza, Paula Michalak, Room R302  J.Polski, Konstanty Tomaszewski, Room R202  Geografia, Eliza Zakrzewska, Room R302      Historia, Patrycja Chmielewska, Room R203  ----
+10:35   J.Polski, Konstanty Tomaszewski, Room R302      Matematyka, Ola Kubiak, Room R202           Fizyka, Kryspin Wróblewski, Room R102       WF, Dorian Duda, Room S2                   Matematyka, Ola Kubiak, Room R302
+11:35   Historia, Patrycja Chmielewska, Room R202       Informatyka, Maciej Michalak, Room R201     Matematyka, Ola Kubiak, Room R203           Matematyka, Ola Kubiak, Room R203          Chemia, Marcelina Witkowska, Room R202
+12:25   Chemia, Marcelina Witkowska, Room R202          Informatyka, Maciej Michalak, Room R201     J.Polski, Konstanty Tomaszewski, Room R102  WF, Dorian Duda, Room S2                   Matematyka, Ola Kubiak, Room R302
+13:15   ----                                            J.Angielski, Paula Michalak, Room R302      ----                                        Matematyka, Ola Kubiak, Room R203          WF, Dorian Duda, Room S2
+14:05   ----                                            Biologia, Alojzy Kamiński, Room R302        ----                                        Fizyka, Kryspin Wróblewski, Room R203      Biologia, Alojzy Kamiński, Room R302
+

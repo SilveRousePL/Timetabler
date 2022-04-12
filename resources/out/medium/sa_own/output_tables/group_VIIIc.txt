@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIIc
+
+Time    Monday                                  Tuesday                                          Wednesday                                Thursday                                 Friday
+------  --------------------------------------  -----------------------------------------------  ---------------------------------------  ---------------------------------------  -----------------------------------------
+08:00   ----                                    WF, Anna Borkowska, Room S1                      ----                                     ----                                     ----
+08:50   Fizyka, Kryspin Wróblewski, Room R103   J.Polski, Maria Mróz, Room R103                  ----                                     Matematyka, Ola Kubiak, Room R101        ----
+09:45   Fizyka, Kryspin Wróblewski, Room R103   WF, Anna Borkowska, Room S1                      Informatyka, Maciej Michalak, Room R201  Biologia, Alojzy Kamiński, Room R101     Historia, Patrycja Chmielewska, Room R103
+10:35   J.Angielski, Paula Michalak, Room R103  Chemia, Marcelina Witkowska, Room R103           Matematyka, Ola Kubiak, Room R101        WF, Anna Borkowska, Room S1              Geografia, Eliza Zakrzewska, Room R103
+11:35   Matematyka, Ola Kubiak, Room R103       Historia, Patrycja Chmielewska, Room R103        J.Polski, Maria Mróz, Room R101          Informatyka, Maciej Michalak, Room R201  J.Angielski, Paula Michalak, Room R103
+12:25   Biologia, Alojzy Kamiński, Room R103    Godzina wychowawcza, Alojzy Kamiński, Room R101  Matematyka, Ola Kubiak, Room R101        Chemia, Marcelina Witkowska, Room R103   J.Polski, Maria Mróz, Room R103
+13:15   Geografia, Eliza Zakrzewska, Room R103  ----                                             J.Polski, Maria Mróz, Room R103          J.Angielski, Paula Michalak, Room R103   J.Angielski, Paula Michalak, Room R103
+14:05   ----                                    ----                                             WF, Anna Borkowska, Room S1              ----                                     ----
+

@@ -1,0 +1,14 @@
+TIMETABLE
+Group VIIa
+
+Time    Monday                                      Tuesday                                     Wednesday                                  Thursday                                 Friday
+------  ------------------------------------------  ------------------------------------------  -----------------------------------------  ---------------------------------------  ------------------------------------------
+08:00   Matematyka, Ola Kubiak, Room R203           J.Polski, Konstanty Tomaszewski, Room R302  WF, Dorian Duda, Room S1                   ----                                     ----
+08:50   Godzina wychowawcza, Ola Kubiak, Room R203  J.Polski, Konstanty Tomaszewski, Room R302  Biologia, Alojzy Kamiński, Room R202       Chemia, Marcelina Witkowska, Room R101   J.Polski, Konstanty Tomaszewski, Room R203
+09:45   Historia, Patrycja Chmielewska, Room R203   Informatyka, Maciej Michalak, Room R201     Historia, Patrycja Chmielewska, Room R103  Geografia, Eliza Zakrzewska, Room R101   Fizyka, Kryspin Wróblewski, Room R203
+10:35   Matematyka, Ola Kubiak, Room R203           Geografia, Eliza Zakrzewska, Room R103      J.Angielski, Paula Michalak, Room R202     WF, Dorian Duda, Room S2                 Biologia, Alojzy Kamiński, Room R302
+11:35   Muzyka, Alek Sobczak, Room R203             Matematyka, Ola Kubiak, Room R302           Matematyka, Ola Kubiak, Room R103          WF, Dorian Duda, Room S2                 Fizyka, Kryspin Wróblewski, Room R302
+12:25   WF, Dorian Duda, Room S2                    J.Angielski, Paula Michalak, Room R202      Chemia, Marcelina Witkowska, Room R103     Informatyka, Maciej Michalak, Room R201  Matematyka, Ola Kubiak, Room R302
+13:15   ----                                        ----                                        ----                                       ----                                     J.Polski, Konstanty Tomaszewski, Room R102
+14:05   ----                                        ----                                        ----                                       ----                                     ----
+

@@ -1,0 +1,14 @@
+TIMETABLE
+Teacher Patrycja Chmielewska
+
+Time    Monday                     Tuesday    Wednesday                  Thursday                              Friday
+------  -------------------------  ---------  -------------------------  ------------------------------------  --------------------------
+08:00   ----                       ----       ----                       VIIIc, Historia, Room R203            ----
+08:50   ----                       ----       ----                       ----                                  ----
+09:45   VIIa, Historia, Room R203  ----       VIIa, Historia, Room R103  ----                                  VIIIb, Historia, Room R303
+10:35   VIIc, Historia, Room R202  ----       ----                       VIIb, Godzina wychowawcza, Room R202  ----
+11:35   VIIb, Historia, Room R101  ----       VIIc, Historia, Room R102  VIIIc, Historia, Room R203            VIIIa, Historia, Room R101
+12:25   ----                       ----       ----                       VIIb, Historia, Room R202             VIIIa, Historia, Room R103
+13:15   ----                       ----       ----                       VIIIb, Historia, Room R102            ----
+14:05   ----                       ----       ----                       ----                                  ----
+
