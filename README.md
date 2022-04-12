@@ -3,7 +3,7 @@ Project created as the research environment for a master's thesis.
 
 Master's thesis name: _Comparative analysis of algorithms for arranging teaching plans_
 
-![](https://github.com/SilveRousePL/Timetabler/blob/main/about.gif)
+![](https://github.com/SilveRousePL/Timetabler/blob/master/about.gif)
 
 ---
 ## First usage
